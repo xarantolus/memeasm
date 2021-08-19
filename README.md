@@ -5,6 +5,7 @@ This is a collection of example programs for [MemeAssembly](https://github.com/k
 
 ### Programs
 * [to_binary](to_binary/to_binary.memeasm): Prints the binary digits of a number that is set in the code.
+* [to_octal](to_octal/to_octal.memeasm): Prints the octal digits of a number that is set in the code.
 * [to_hex](to_hex/to_hex.memeasm): Prints the hex digits of a number that is set in the code.
 
 To find even more examples, look at those [in the official repository](https://github.com/kammt/MemeAssembly/tree/main/examples).
