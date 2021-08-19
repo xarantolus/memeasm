@@ -1,5 +1,5 @@
 main:
-	memeasm -o main binary.memeasm
+	memeasm -o main to_binary.memeasm
 
 run: main
 	./main
