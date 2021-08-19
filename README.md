@@ -4,6 +4,8 @@ This is a collection of example programs for [MemeAssembly](https://github.com/k
 ### Programs
 * [to_binary](to_binary/to_binary.memeasm): Prints the binary digits of a number that is set in the code itself.
 
+To find even more examples, look at those [in the official repository](https://github.com/kammt/MemeAssembly/tree/main/examples).
+
 ### How to run
 So you want to run some of these programs?
 
