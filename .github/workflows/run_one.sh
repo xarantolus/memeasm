@@ -1,5 +1,5 @@
 #!/usr/bin/bash
 
-echo "::group::$1"
+echo "::group::$(git ls-files --full-name Makefile)"
 make run
 echo "::endgroup::"

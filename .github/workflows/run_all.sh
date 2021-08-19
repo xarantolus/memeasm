@@ -1,3 +1,5 @@
 #!/usr/bin/bash
 
-find . -type f -name Makefile -execdir ./.github/workflows/run_one.sh \;
+ABSOLUTE=$(pwd)/.github/workflows/run_one.sh
+
+find . -type f -name Makefile -execdir bash $ABSOLUTE {} \;
