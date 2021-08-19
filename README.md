@@ -10,8 +10,10 @@ This is a collection of example programs for [MemeAssembly](https://github.com/k
 
 To find even more examples, look at those [in the official repository](https://github.com/kammt/MemeAssembly/tree/main/examples).
 
+You can also see these programs [running on GitHub Actions](https://github.com/xarantolus/memeasm/actions/workflows/run_all.yml).
+
 ### How to run
-So you want to run some of these programs?
+So, you want to run some of these programs?
 
 First, make sure you have MemeAssembly installed.
 
