@@ -2,7 +2,7 @@
 
 void to_binary(unsigned int x)
 {
-    unsigned int stack[10];
+    unsigned int stack[32];
     int stackPtr = -1;
 
     while (x > 0)
