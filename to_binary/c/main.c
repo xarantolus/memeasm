@@ -23,6 +23,6 @@ void to_binary(unsigned int x)
 
 int main(int argc, char const *argv[])
 {
-    to_binary(0x35);
+    to_binary(69420);
     return 0;
 }

@@ -32,6 +32,6 @@ void to_hex(unsigned int x)
 
 int main(int argc, char const *argv[])
 {
-    to_hex(13518934);
+    to_hex(69420);
     return 0;
 }

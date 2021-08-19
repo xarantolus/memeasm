@@ -23,6 +23,6 @@ void to_octal(unsigned int x)
 
 int main(int argc, char const *argv[])
 {
-    to_octal(19358);
+    to_octal(69420);
     return 0;
 }
