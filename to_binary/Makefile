@@ -1,5 +1,9 @@
-all: main
+main:
 	memeasm -o main binary.memeasm
 
-run: all
+run: main
 	./main
+
+.PHONY:
+clean:
+	rm -f ./main

@@ -1,5 +1,9 @@
-all: main
+main:
 	gcc -o main main.c
 
-run: all
+run: main
 	./main
+
+.PHONY:
+clean:
+	rm -f ./main
