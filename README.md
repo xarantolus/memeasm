@@ -1,3 +1,5 @@
+![Made with MemeAssembly Badge](https://img.shields.io/badge/made%20with-MemeAssembly-blue) [![Run all programs](https://github.com/xarantolus/memeasm/actions/workflows/run_all.yml/badge.svg)](https://github.com/xarantolus/memeasm/actions/workflows/run_all.yml)
+
 # memeasm
 This is a collection of example programs for [MemeAssembly](https://github.com/kammt/MemeAssembly), an esoteric x86-Assembly based programming language. Just for fun :)
 
