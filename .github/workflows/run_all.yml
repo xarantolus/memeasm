@@ -14,5 +14,8 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     
+    - name: Install MemeAssembly
+      run: bash .github/workflows/install_memeasm.sh 
+      
     - name: Run all scripts
       run: bash .github/workflows/run_all.sh
