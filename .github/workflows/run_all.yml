@@ -17,5 +17,5 @@ jobs:
     - name: Install MemeAssembly
       run: bash .github/workflows/install_memeasm.sh 2>&1
       
-    - name: Run all scripts
+    - name: Compile & Run all programs
       run: bash .github/workflows/run_all.sh 2>&1
