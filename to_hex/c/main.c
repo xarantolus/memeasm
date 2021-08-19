@@ -17,7 +17,7 @@ void to_hex(unsigned int x)
     {
         unsigned int current = stack[stackPtr--];
 
-        if (current >= 9)
+        if (current <= 9)
         {
             printf("%c", '0' + current);
         }
