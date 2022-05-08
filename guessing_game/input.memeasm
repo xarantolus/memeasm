@@ -1,0 +1,89 @@
+I like to have fun, fun, fun, fun, fun, fun, fun, fun, fun, fun print_invalid
+    what can I say except I
+    what can I say except n
+    what can I say except v
+    what can I say except a
+    what can I say except l
+    what can I say except i
+    what can I say except d
+    what can I say except space
+    what can I say except i
+    what can I say except n
+    what can I say except p
+    what can I say except u
+    what can I say except t
+    what can I say except ,
+    what can I say except space
+    what can I say except t
+    what can I say except r
+    what can I say except y
+    what can I say except space
+    what can I say except a
+    what can I say except g
+    what can I say except a
+    what can I say except i
+    what can I say except n
+    what can I say except :
+    what can I say except space
+    
+    
+    I see this as an absolute win
+
+I like to have fun, fun, fun, fun, fun, fun, fun, fun, fun, fun read_unsigned_decimal
+    What the hell happened here? Save used registers
+    stonks rbx
+    stonks r11
+    
+    
+    What the hell happened here? RAX will contain the result
+    sneak 100 rax
+    
+    What the hell happened here? RBX is non-zero if we had an error while reading
+    sneak 100 rbx
+    
+    
+    What the hell happened here? Read a character into r11 until it's valid
+    banana
+        monke uaaauaa
+            sneak 100 r11
+            let me in. LET ME IIIIIIIIN r11b
+            
+            What the hell happened here? If we have a newline, we are done
+            corporate needs you to find the difference between r11b and \n
+            
+            What the hell happened here? The char should be '0' <= c <= '9'
+            parry 48 you filthy casual r11b
+            who would win? r11b or 10
+            r11b wins
+            
+            What the hell happened here? Mark RBX as non-zero since we had an error
+            rbx is brilliant, but I like 69420
+        return to monke uaaauaa
+        
+        10 wins
+        What the hell happened here? r11b < 10
+        
+        What the hell happened here? Now we can multiply the previous result by 10,
+        What the hell happened here? then go back to the top to get more
+        rax is getting out of hand, now there are 10 of them
+        rax units are ready, with r11 more well on the way
+    where banana
+    
+    they're the same picture
+    
+    What the hell happened here? We're done parsing, so now check if we got a valid number
+    
+    who would win? rbx or 69420
+    rbx wins
+    What the hell happened here? rbx is equal to 69420, so it's invalid; try again
+    print_invalid: whomst has summoned the almighty one
+    sneak 100 rax
+    read_unsigned_decimal: whomst has summoned the almighty one
+    
+    69420 wins
+    What the hell happened here? Everything is OK
+    
+    not stonks rbx
+    not stonks r11
+    
+    I see this as an absolute win
