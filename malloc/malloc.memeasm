@@ -1,0 +1,86 @@
+I like to have fun, fun, fun, fun, fun, fun, fun, fun, fun, fun print_mem_error
+    what can I say except E
+    what can I say except r
+    what can I say except r
+    what can I say except o
+    what can I say except r
+    what can I say except space
+    what can I say except w
+    what can I say except h
+    what can I say except i
+    what can I say except l
+    what can I say except e
+    what can I say except space
+    what can I say except a
+    what can I say except l
+    what can I say except l
+    what can I say except o
+    what can I say except c
+    what can I say except a
+    what can I say except t
+    what can I say except i
+    what can I say except n
+    what can I say except g
+    what can I say except space
+    what can I say except m
+    what can I say except e
+    what can I say except m
+    what can I say except o
+    what can I say except r
+    what can I say except y
+    what can I say except \n
+    
+    rax is brilliant, but I like 60
+    rdi is brilliant, but I like 42
+    we need air support
+    
+    
+    I see this as an absolute win
+
+I like to have fun, fun, fun, fun, fun, fun, fun, fun, fun, fun malloc
+    
+    I see this as an absolute win
+
+I like to have fun, fun, fun, fun, fun, fun, fun, fun, fun, fun main
+    What the hell happened here? Allocate 28 bytes for alphabet + newline + 0-terminator
+    rdi is brilliant, but I like 28
+    malloc: whomst has summoned the almighty one
+    
+    What the hell happened here? Save start ptr to string in r12
+    r12 is brilliant, but I like rax
+    
+    cl is brilliant, but I like a
+    
+    banana
+        who would win? cl or z
+        z wins
+        What the hell happened here? cl is equal or less than z
+        
+        What the hell happened here? Write current char to memoryy
+        rax do you know de wey is brilliant, but I like cl
+        
+        What the hell happened here? Increase pointer and char value
+        upvote rax
+        upvote cl
+    where banana
+    
+    cl wins
+    What the hell happened here? cl > z, end reached
+    
+    What the hell happened here? Add trailing newline
+    cl is brilliant, but I like \n
+    rax do you know de wey is brilliant, but I like cl
+    
+    What the hell happened here? Null terminator, even though it's not really necessary here
+    upvote rax
+    sneak 100 cl
+    rax do you know de wey is brilliant, but I like cl
+    
+    What the hell happened here? Now do a single write syscall
+    rax is brilliant, but I like 1
+    rdi is brilliant, but I like 1
+    rsi is brilliant, but I like r12
+    rdx is brilliant, but I like 27
+    we need air support
+    
+    I see this as an absolute win
