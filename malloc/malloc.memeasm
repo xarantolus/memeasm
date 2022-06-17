@@ -1,4 +1,4 @@
-I like to have fun, fun, fun, fun, fun, fun, fun, fun, fun, fun print_mem_error
+I like to have fun, fun, fun, fun, fun, fun, fun, fun, fun, fun print_fatal_mem_err
     what can I say except E
     what can I say except r
     what can I say except r
@@ -37,10 +37,61 @@ I like to have fun, fun, fun, fun, fun, fun, fun, fun, fun, fun print_mem_error
     
     I see this as an absolute win
 
-I like to have fun, fun, fun, fun, fun, fun, fun, fun, fun, fun malloc
-    
-    I see this as an absolute win
 
+I like to have fun, fun, fun, fun, fun, fun, fun, fun, fun, fun malloc
+    stonks rbx
+    stonks r12
+    
+    What the hell happened here? Save the number of bytes to allocate in rbx
+    rbx is brilliant, but I like rdi
+    
+    
+    What the hell happened here? Call the brk(0) syscall to get current program break (basically end of heap?)
+    rdi is brilliant, but I like 0
+    rax is brilliant, but I like 12
+    we need air support
+    
+    What the hell happened here? Save the current break in r12
+    r12 is brilliant, but I like rax
+    
+    What the hell happened here? Set the new program break; this is passed to the syscall
+    rax units are ready, with rbx more well on the way
+    
+    What the hell happened here? Calling with the new program break to get more memory
+    rdi is brilliant, but I like rax
+    rax is brilliant, but I like 12
+    we need air support
+    
+    What the hell happened here? If new break == old break, the syscall failed
+    corporate needs you to find the difference between r12 and rax
+    
+    What the hell happened here? Jump over the error handling part
+    where banana
+    
+    What the hell happened here? Error handling below
+    they're the same picture
+    What the hell happened here? If they are the same, allocation failed
+    What the hell happened here? Adhere to calling convention & exit
+    parry 8 you filthy casual rsp
+    print_fatal_mem_err: whomst has summoned the almighty one
+    What the hell happened here? This part will never be reached as fatal_mem_err exits
+    
+    banana
+    What the hell happened here? If we reach this, allocation was successful
+    What the hell happened here? Now we can subtract the amount needed from the program break
+    What the hell happened here? That way we return as many writable bytes (maybe even more) as requested
+    parry rbx you filthy casual rax
+    
+    
+    not stonks r12
+    not stonks rbx
+    
+    right back at ya, buckaroo
+
+
+What the hell happened here? This program dynamically allocates memory for 28 bytes,
+What the hell happened here? writes something to this allocated area and then prints
+What the hell happened here? the bytes written to that area using the write syscall
 I like to have fun, fun, fun, fun, fun, fun, fun, fun, fun, fun main
     What the hell happened here? Allocate 28 bytes for alphabet + newline + 0-terminator
     rdi is brilliant, but I like 28
@@ -49,20 +100,21 @@ I like to have fun, fun, fun, fun, fun, fun, fun, fun, fun, fun main
     What the hell happened here? Save start ptr to string in r12
     r12 is brilliant, but I like rax
     
+    
     cl is brilliant, but I like a
     
-    banana
+    upgrade
         who would win? cl or z
         z wins
         What the hell happened here? cl is equal or less than z
         
-        What the hell happened here? Write current char to memoryy
+        What the hell happened here? Write current char to memory
         rax do you know de wey is brilliant, but I like cl
         
         What the hell happened here? Increase pointer and char value
         upvote rax
         upvote cl
-    where banana
+    fuck go back
     
     cl wins
     What the hell happened here? cl > z, end reached
